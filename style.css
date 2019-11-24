@@ -1,0 +1,169 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: white;
+}
+canvas {
+  display: block;
+}
+
+h1 {
+    font-family: redaction50-Regular; sans-serif;
+    position: fixed;
+    margin-left: 40px;
+    margin-top: 40px;
+    font-size: 100px;
+    line-height: 1;
+    color: black;
+}
+
+h2 {
+    position: absolute;
+    display: inline-block;
+    bottom: 40px;
+    margin-bottom: 0;
+    left: 40px;
+    font-family: sans-serif;
+    font-weight: 400;
+    font-size: 35px;
+    color: black;
+    
+}
+
+h3 {
+    bottom: 40px;
+    position: absolute;
+    display: inline-block;
+    margin-bottom: 0;
+    font-family: sans-serif;
+    font-weight: 400;
+    font-size: 35px;
+    left: 175px;
+    color: black;
+    
+}
+
+h4 {
+    position: absolute;
+    display: inline-block;
+    margin-bottom: 0;
+    font-family: redaction20-regular; sans-serif;
+    font-weight: 400;
+    font-size: 35px;
+    left: 40px;
+    top: 300px;
+    color: black;
+    line-height: 1.1;
+    
+}
+
+h5 {
+    bottom: 40px;
+    position: absolute;
+    display: inline-block;
+    margin-bottom: 0;
+    font-family: sans-serif;
+    font-weight: 400;
+    font-size: 35px;
+    left: 425px;
+    color: black;
+}
+        
+p1 {
+    font-family: redaction20-regular; sans-serif;
+    position: absolute;
+    top: 200px;
+    width: 50%;
+    left: 40px;
+    font-size: 35px;
+    color: black;
+    }
+
+.Draw {
+    top: 350px;
+}
+
+.Word01 {
+    top: 450px;
+}
+
+a.class1 {
+    font-family: redaction100-regular; sans-serif;
+    text-decoration: none;
+    bottom: 40px;
+    position: absolute;
+    font-size: 35px;
+    margin-bottom: none;
+    left: 40px;
+    color: black;
+    
+}
+
+a.class1:hover {
+    font-family: redaction50-regular; sans-serif;
+}
+
+a.class2 {
+    font-family: redaction100-regular; sans-serif;
+    text-decoration: none;
+    bottom: 40px;
+    position: absolute;
+    font-size: 35px;
+    margin-bottom: none;
+    left: 40px;
+    color: black; 
+}
+
+a.class2:hover {
+    font-family: redaction50-regular;
+}
+
+#category {
+    font-size: 100px;
+    font-family: redaction50-Regular; sans-serif;
+    font-weight: 200;
+    display: inline-block;
+    position: fixed;
+    margin-top: 130px;
+    margin-left: 40px;
+    
+}
+
+button {
+    outline-style: ;
+    background: none;
+    border: none;
+    font-family: sans-serif;
+    position: fixed;
+    bottom: 37.5px;
+    position: absolute;
+    display: inline-block;
+    font-weight: 400;
+    font-size: 35px;
+    left: 190px;
+    color: black;
+    font-family: redaction100-regular; sans-serif;
+    
+}
+
+a.Submit {
+    bottom: 38.5px;
+    position: absolute;
+    display: inline-block;
+    margin-bottom: 0;
+    font-family: redaction100-regular; sans-serif;
+    font-weight: 400;
+    font-size: 35px;
+    left: 335px;
+    color: black;
+    text-decoration: none;
+}
+
+a.Submit:hover {
+    font-family: redaction50-regular, sans-serif;
+}
+
+button:hover {
+    cursor: pointer;    
+    font-family: redaction50-regular, sans-serif;
+}
